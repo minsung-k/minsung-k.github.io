@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-===== 
 
 I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time.
 
 Research
 =====
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research1.png" alt=""> </figure> |  **Churn Prediction** <br/>**Minsung Kang** <br/>Big Contest by National Information Society Agency, 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)|
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research1.png" alt=""> </figure> |  **Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)|
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research2.png" alt=""> </figure> |  **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA)<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)|
+
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/humanioc.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)|
 
 
 A data-driven personal website
