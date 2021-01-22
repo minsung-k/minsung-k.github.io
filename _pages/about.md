@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 About Me
-=====
+===== 
 
 I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time.
 
+Research
+=====
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research1.png" alt=""> </figure> |  **Churn Prediction** <br/>**Minsung Kang** <br/>Big Contest by National Information Society Agency, 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)|
 
 
 A data-driven personal website
