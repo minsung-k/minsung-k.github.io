@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello! <br>
-I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
+I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
 
 Research
 =====
@@ -24,10 +24,10 @@ Experience
 **AI Solution Center** <sup> <i> Mar. - Jun. 2020 </i> </sup>
 <br>Research Intern
 
-**BostonAims(AI Platform Architecture Inc)** <sup> <i> Jul. - Dec. 2019* </i></sup>
+**BostonAims(AI Platform Architecture Inc)** <sup> <i> Jul. - Dec. 2019 </i></sup>
 <br>Business Strategy Analyst Intern
 
-**Performars(Overseas Marketing Consulting Inc)** <sup> <i>Aug. - Dec. 2018*</i><sup>
+**Performars(Overseas Marketing Consulting Inc)** <sup> <i>Aug. - Dec. 2018 </i></sup>
 <br/>Research Assistant
 
 <br>
