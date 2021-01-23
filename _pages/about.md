@@ -18,48 +18,54 @@ Research
 <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download2.png" alt=""> </figure> **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA), 2019<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)
 
 
+Experience
+=====
+**AI Solution Center** *Mar. - Jun. 2020*
+<br>Research Intern
+
+**BostonAims(AI Platform Architecture Inc)** *Jul. - Dec. 2019*
+<br>Business Strategy Analyst Intern
+
+**Performars(Overseas Marketing Consulting Inc)** *Aug. - Dec. 2018*
+<br/>Research Assistant
+
 
 
 
 Experience
 =====
 <p style="text-align:left;">
-    **AI Solution Center** 
+    <b>AI Solution Center</b> 
     <span style="float:right;">
-        *Mar. - Jun. 2020* 
+        <i>Mar. - Jun. 2020</i> 
     </span>
 </p>
-<br/>Research Intern
+Research Intern
 
 <p style="text-align:left;">
-    **BostonAims(AI Platform Architecture Inc)** 
+    <b>BostonAims(AI Platform Architecture Inc)</b>
     <span style="float:right;">
-        *Jul. - Dec. 2019*
+        <i>Jul. - Dec. 2019</i>
     </span>
 </p>
 Business Strategy Analyst Intern
 
 <p style="text-align:left;">
-    **Performars(Overseas Marketing Consulting Inc)** 
+    <b>Performars(Overseas Marketing Consulting Inc)</b>
     <span style="float:right;">
-        *Aug. - Dec. 2018*
+       <i>Aug. - Dec. 2018</i>
     </span>
 </p>
-<br/>Research Assistant
-
-
-
-
-
+Research Assistant
 
 
 Education
 =====
 
 <p style="text-align:left;">
-    **Hankuk University of Foreign Studies**
+    <b>Hankuk University of Foreign Studies</b>
     <span style="float:right;">
-        *Mar. 2013 - Sep. 2020*
+        <i>Mar. 2013 - Sep. 2020</i>
     </span>
 </p>
   <br/>
@@ -68,9 +74,9 @@ Education
 
 
 <p style="text-align:left;">
-    **Columbus State University**
+    </b>Columbus State University*</b>
     <span style="float:right;">
-        *Aug. - Dec. 2017*
+        </i>Aug. - Dec. 2017</i>
     </span>
 </p>
 - Exchange Student
