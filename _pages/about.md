@@ -23,7 +23,7 @@ Experience
 **AI Solution Center** <sup>Mar. - Jun. 2020</sup>
 <br>Research Intern
 
-**BostonAims(AI Platform Architecture Inc)** *Jul. - Dec. 2019*
+**BostonAims(AI Platform Architecture Inc)** <sub>Jul. - Dec. 2019<sub>
 <br>Business Strategy Analyst Intern
 
 **Performars(Overseas Marketing Consulting Inc)** *Aug. - Dec. 2018*
@@ -36,13 +36,13 @@ Education
 
 <p style="text-align:left;">
     <b>Hankuk University of Foreign Studies</b>
-    <ul style="list-style-type:disc;">
-     <li>B.S in Management Information Systems, minor in Statistics</li>
-     <li>GPA: 4.04/4.5 (total), 4.04/4.5 (major)</li>
-     </ul>
     <span style="float:right;">
         <i>Mar. 2013 - Sep. 2020</i>
     </span>
+    <ul style="list-style-type:disc;">
+      <li>B.S in Management Information Systems, minor in Statistics</li>
+      <li>GPA: 4.04/4.5 (total), 4.04/4.5 (major)</li>
+     </ul>
 </p>
   <br/>
 
@@ -50,13 +50,13 @@ Education
 
 <p style="text-align:left;">
     <b>Columbus State University</b>
-    <ul style="list-style-type:disc;">
-    <li>Exchange Student</li>
-    <li>GPA: 3.92/4.0 (total), 4.0/4.0 (major)</li>
-    </ul>
     <span style="float:right;">
         <i>Aug. - Dec. 2017</i>
     </span>
+    <ul style="list-style-type:disc;">
+      <li>Exchange Student</li>
+      <li>GPA: 3.92/4.0 (total), 4.0/4.0 (major)</li>
+    </ul>
 </p>
 
 
