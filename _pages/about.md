@@ -21,13 +21,13 @@ Research
 
 Experience
 =====
-**AI Solution Center** <sup>Mar. - Jun. 2020</sup>
+**AI Solution Center** <sup> <i> Mar. - Jun. 2020 </i> </sup>
 <br>Research Intern
 
-**BostonAims(AI Platform Architecture Inc)** <sub>Jul. - Dec. 2019<sub>
+**BostonAims(AI Platform Architecture Inc)** <sup> <i> Jul. - Dec. 2019* </i></sup>
 <br>Business Strategy Analyst Intern
 
-**Performars(Overseas Marketing Consulting Inc)** *Aug. - Dec. 2018*
+**Performars(Overseas Marketing Consulting Inc)** <sup> <i>Aug. - Dec. 2018*</i><sup>
 <br/>Research Assistant
 
 <br>
