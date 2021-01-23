@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+Hello! <br/>
 I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time.
 
 Research
 =====
-<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research1.png" alt=""> </figure>**Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)
-<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/Research2.png" alt=""> </figure>**Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA)<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)|
+<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download2.png" alt=""> </figure>{:.alignleft} **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA), 2019<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)
+
+<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download1.png" alt=""> </figure>**Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)
+
 
 
 Experience
 =====
-**AI Solution Center** *Mar. - Jun. 2020*
+**AI Solution Center** *Mar. - Jun. 2020*{:.text-right}
 <br/>Research Intern
 
 **BostonAims(AI Platform Architecture Inc)** *Jul. - Dec. 2019*
@@ -32,11 +34,11 @@ Experience
 Education
 =====
 **Hankuk University of Foreign Studies** *Mar. 2013 - Sep. 2020*
- <br/>B.S in Management Information Systems, minor in Statistics
+ -B.S in Management Information Systems, minor in Statistics
 - GPA: 4.04/4.5 (total), 4.04/4.5 (major)
 
 **Columbus State University** *Aug. - Dec. 2017*
- <br/>Exchange Student
+- Exchange Student
 - GPA: 3.92/4.0 (total), 4.0/4.0 (major)
 
 
