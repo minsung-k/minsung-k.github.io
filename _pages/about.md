@@ -31,34 +31,6 @@ Experience
 
 
 
-
-Experience
-=====
-<p style="text-align:left;">
-    <b>AI Solution Center</b> 
-    <span style="float:right;">
-        <i>Mar. - Jun. 2020</i> 
-    </span>
-</p>
-Research Intern
-
-<p style="text-align:left;">
-    <b>BostonAims(AI Platform Architecture Inc)</b>
-    <span style="float:right;">
-        <i>Jul. - Dec. 2019</i>
-    </span>
-</p>
-Business Strategy Analyst Intern
-
-<p style="text-align:left;">
-    <b>Performars(Overseas Marketing Consulting Inc)</b>
-    <span style="float:right;">
-       <i>Aug. - Dec. 2018</i>
-    </span>
-</p>
-Research Assistant
-
-
 Education
 =====
 
@@ -74,9 +46,9 @@ Education
 
 
 <p style="text-align:left;">
-    </b>Columbus State University*</b>
+    <b>Columbus State University*</b>
     <span style="float:right;">
-        </i>Aug. - Dec. 2017</i>
+        <i>Aug. - Dec. 2017</i>
     </span>
 </p>
 - Exchange Student
