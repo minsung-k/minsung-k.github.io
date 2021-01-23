@@ -9,13 +9,14 @@ redirect_from:
 ---
 
 Hello! <br>
-I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time.
+I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics with Machine Learning and Deep Learning and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
 
 Research
 =====
 <figure style="width: 240px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download1.png" alt=""> </figure>**Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)
 
 <figure style="width: 240px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download2.png" alt=""> </figure> **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA), 2019<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)
+<br>
 
 
 Experience
@@ -29,7 +30,7 @@ Experience
 **Performars(Overseas Marketing Consulting Inc)** *Aug. - Dec. 2018*
 <br/>Research Assistant
 
-
+<br>
 
 Education
 =====
@@ -59,7 +60,7 @@ Education
     </ul>
 </p>
 
-
+<br>
 
 
 
