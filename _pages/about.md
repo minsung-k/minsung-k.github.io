@@ -13,14 +13,14 @@ I graduated Hankuk University of Foreign Studies at 2020. I majored Management I
 
 Research
 =====
-<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download1.png" alt=""> </figure>**Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)
+<figure style="width: 240px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download1.png" alt=""> </figure>**Predicting Customer Churn** <br/>**Minsung Kang** <br/>Big Contest organized by National Information Society Agency(NIA), 2017<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf1.pdf)
 
-<figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download2.png" alt=""> </figure> **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA), 2019<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)
+<figure style="width: 240px"> <img src="{{ site.url }}{{ site.baseurl }}/images/download2.png" alt=""> </figure> **Predicting Demand of Convenient Store** <br/>**Minsung Kang** <br/> Weather Big Data Contest organized by Korea Meteorological Administration(KMA), 2019<br/>[PowerPoint]({{ site.url }}{{ site.baseurl }}/files/pdf2.pdf)
 
 
 Experience
 =====
-**AI Solution Center** *Mar. - Jun. 2020*
+**AI Solution Center** <sup>Mar. - Jun. 2020</sup>
 <br>Research Intern
 
 **BostonAims(AI Platform Architecture Inc)** *Jul. - Dec. 2019*
@@ -36,23 +36,26 @@ Education
 
 <p style="text-align:left;">
     <b>Hankuk University of Foreign Studies</b>
+     - B.S in Management Information Systems, minor in Statistics
+     - GPA: 4.04/4.5 (total), 4.04/4.5 (major)
     <span style="float:right;">
         <i>Mar. 2013 - Sep. 2020</i>
     </span>
 </p>
   <br/>
- -B.S in Management Information Systems, minor in Statistics
-- GPA: 4.04/4.5 (total), 4.04/4.5 (major)
+
 
 
 <p style="text-align:left;">
-    <b>Columbus State University*</b>
+    <b>Columbus State University</b>
+    <br>
+    - Exchange Student
+    - GPA: 3.92/4.0 (total), 4.0/4.0 (major)
     <span style="float:right;">
         <i>Aug. - Dec. 2017</i>
     </span>
 </p>
-- Exchange Student
-- GPA: 3.92/4.0 (total), 4.0/4.0 (major)
+
 
 
 
