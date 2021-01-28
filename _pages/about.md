@@ -10,6 +10,8 @@ redirect_from:
 
 Hello! <br>
 I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
+Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/cv.pdf)
+<br>
 
 Research
 =====
@@ -61,9 +63,3 @@ Education
 </p>
 
 <br>
-
-
-
-CV
-=====
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/cv.pdf)
