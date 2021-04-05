@@ -1,10 +1,10 @@
 main links links
 main:
-  - title: "About me"
-    url: /about.html/
+  - title: "_posts"
+    url: /_posts/
 
-  - title: "Blog"
-    url: /Blogs/    
+  #- title: "Blog"
+  #  url: /Blogs/    
 
   #- title: "Teaching"
   #  url: /teaching/    
