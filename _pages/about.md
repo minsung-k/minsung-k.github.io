@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hello! <br>
-I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
+I am a Ph.D student in University of Florida. I graduated Hankuk University of Foreign Studies at 2020. I majored Management Information Systems and minored Statistics. I am interested in Data Analytics and Operation Research. I also try to follow up on state-of-the-art deep learning research during my free time. <br>
 Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/cv.pdf)
 <br>
 
@@ -36,6 +36,17 @@ Experience
 
 Education
 =====
+
+<p style="text-align:left;">
+    <b>University of Florida</b>
+    <span style="float:right;">
+        <i>Aug. 2021 - </i>
+    </span>
+    <ul style="list-style-type:disc;">
+      <li>Ph.D in Industrial Engineering</li>
+     </ul>
+</p>
+  <br/>
 
 <p style="text-align:left;">
     <b>Hankuk University of Foreign Studies</b>
