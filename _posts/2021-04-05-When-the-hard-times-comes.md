@@ -3,9 +3,9 @@ title: 'When the hard times comes'
 date: 2021-04-05
 permalink: /posts/2021/04/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - 미국 유학
+  - 대학원
+  - 박사
 ---
 
 ## 얼마나 힘들게 미국을 왔는지 있지 말자
@@ -90,7 +90,7 @@ P.S.
 
 <figure>
  <img src ='https://i.imgur.com/PnoastD.jpg' />
- <figcaption>'210323'</figcaption>
+ <figcaption>'210323</figcaption>
 </figure>
 
 두 번째로 일하러 간 곳이다.
@@ -114,7 +114,7 @@ P.S.
 ### 태양광 패널 설치
 
 <figure>
- <img src ='https://i.imgur.com/PnoastD.jpg' />
+ <img src ='https://i.imgur.com/aZQPYvq.jpg' />
  <figcaption>'210329 ~ '210331'</figcaption>
 </figure>
 
@@ -136,14 +136,15 @@ P.S.
 
 
 ### 건물 철거
-<!-->
+
 <figure>
- <img src ='https://i.imgur.com/EU9LGsb.mp4' />
+ <img src ='https://i.imgur.com/fsbkTf1.jpg' />
  <figcaption>'210408 ~ '210410'</figcaption>
 </figure>
-<-->
 
+<!-->
 <video id="vid" width="320" height="240" autoplay="autoplay" loop="loop" muted="muted" controls poster="https://www.w3schools.com/images/w3schools_green.jpg"> <source src="https://i.imgur.com/u57vyS4.jpg" type="video/mp4"> </video> <script> document.getElementById('vid').play(); </script>
+<-->
 
 역삼동에 건물 철거 현장에서 3일간 일했다. 큰 건물을 포크레인으로 부수는데, 거기서 생기는 먼지를 줄이기 위해 물을 뿌렸다. 물총 쏘는 것 같아 재밌었다. 아침에는 해가 뜨기 전이라 추웠는데, 해가 뜨고 나서는 물 때문에 시원해서 좋았다. 포크레인이 일을 다 하기에 크게 힘들 것도 없었다.
 
