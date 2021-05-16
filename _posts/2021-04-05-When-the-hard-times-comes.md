@@ -136,11 +136,14 @@ P.S.
 
 
 ### 건물 철거
-
+<!-->
 <figure>
  <img src ='https://i.imgur.com/EU9LGsb.mp4' />
  <figcaption>'210408 ~ '210410'</figcaption>
 </figure>
+<-->
+
+<video id="vid" width="320" height="240" autoplay="autoplay" loop="loop" muted="muted" controls poster="https://www.w3schools.com/images/w3schools_green.jpg"> <source src="https://i.imgur.com/u57vyS4.jpg" type="video/mp4"> </video> <script> document.getElementById('vid').play(); </script>
 
 역삼동에 건물 철거 현장에서 3일간 일했다. 큰 건물을 포크레인으로 부수는데, 거기서 생기는 먼지를 줄이기 위해 물을 뿌렸다. 물총 쏘는 것 같아 재밌었다. 아침에는 해가 뜨기 전이라 추웠는데, 해가 뜨고 나서는 물 때문에 시원해서 좋았다. 포크레인이 일을 다 하기에 크게 힘들 것도 없었다.
 
@@ -153,6 +156,7 @@ P.S.
 <figure>
  <img src ='https://i.imgur.com/u57vyS4.jpg' />
 </figure>
+
 
 건물을 철거할 때 먼지나 소음이 발생하는걸 줄이기 위해 주변에 임시 구조물을 만드는데, 사람들이 다 아시바라고 불렀다. 한국말로는 비계라고 한다더라. 한 번도 비계라고 부르는 사람을 본 적은 없다.
 
