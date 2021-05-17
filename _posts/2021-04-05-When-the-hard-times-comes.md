@@ -45,7 +45,7 @@ tags:
 ## 아시바 철거
 
 <figure>
- <img src ='https://i.imgur.com/u57vyS4.jpg', width='350' />
+ <img src ='https://i.imgur.com/U5Cp7zi.jpg' width='350' height='467/>
 </figure>
 
 
@@ -140,7 +140,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/zoCLdYH.jpg', width='300', height='400' />
+ <img src ='https://i.imgur.com/zoCLdYH.jpg' width='300' height='400' />
  <figcaption>'210321 ~ '210326'</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/2VpyYz1.jpg', width='400', height='533' />
+ <img src ='https://i.imgur.com/2VpyYz1.jpg' width='400' height='533' />
 </figure>
 
 여의도의 경치는 참 예쁘더라. 돈 많이 벌어서 언젠가는 한강뷰!
@@ -159,7 +159,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/7CLfmsr.jpg' ,alt='210223 ~ '210225'/>
+ <img src ='https://i.imgur.com/7CLfmsr.jpg' alt='210223 ~ '210225'/>
 </figure>
 
 시작은 택배 상하차였다. 힘든 알바의 끝판왕이라 불리는...
@@ -177,7 +177,7 @@ Tip) 김치라고 적혀 있으면 안 던진다 ㅋㅋ
 
 
 <figure>
- <img src ='https://i.imgur.com/kwT4afA.jpg' , width='300', height='400' />
+ <img src ='https://i.imgur.com/kwT4afA.jpg'  width='300' height='400' />
 </figure>
 
 밤 12시에 밥을 먹고 좀 쉬는 시간이 있었는데, 그 때 너무 힘들어서 추운 편의점 땅바닥에 그냥 앉았었다.
