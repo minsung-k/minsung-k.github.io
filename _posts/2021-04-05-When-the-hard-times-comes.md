@@ -45,7 +45,7 @@ tags:
 ## 아시바 철거
 
 <figure>
- <img src ='https://i.imgur.com/U5Cp7zi.jpg' width='350' height='467/>
+ <img src ='https://i.imgur.com/U5Cp7zi.jpg' width='350' height='467' />
 </figure>
 
 
@@ -159,7 +159,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/7CLfmsr.jpg' alt='210223 ~ '210225'/>
+ <img src ='https://i.imgur.com/7CLfmsr.jpg'/>
 </figure>
 
 시작은 택배 상하차였다. 힘든 알바의 끝판왕이라 불리는...
