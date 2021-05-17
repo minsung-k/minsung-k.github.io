@@ -8,7 +8,7 @@ tags:
   - 박사
 ---
 
-## 얼마나 힘들게 미국을 왔는지 있지 말자
+# 얼마나 힘들게 미국을 왔는지 있지 말자
 <br>
 미국 대학원을 어플라이 하기까지의 과정도 정말 힘들었지만, 결과적으로 펀딩을 받지 못했기에, 비싼 등록금을 스스로 감당해야한다.
 
@@ -16,12 +16,11 @@ tags:
 
 
 
-### 택배 상하차
+## 택배 상하차
 
 
 <figure>
- <img src ='https://i.imgur.com/7CLfmsr.jpg' />
- <figcaption>'210223 ~ '210225'</figcaption>
+ <img src ='https://i.imgur.com/7CLfmsr.jpg' ,alt='210223 ~ '210225'/>
 </figure>
 
 시작은 택배 상하차였다. 힘든 알바의 끝판왕이라 불리는...
@@ -39,7 +38,7 @@ Tip) 김치라고 적혀 있으면 안 던진다 ㅋㅋ
 
 
 <figure>
- <img src ='https://i.imgur.com/kwT4afA.jpg' width='375', height='500' />
+ <img src ='https://i.imgur.com/kwT4afA.jpg' width='300', height='400' />
 </figure>
 
 밤 12시에 밥을 먹고 좀 쉬는 시간이 있었는데, 그 때 너무 힘들어서 추운 편의점 땅바닥에 그냥 앉았었다.
@@ -49,7 +48,7 @@ Tip) 김치라고 적혀 있으면 안 던진다 ㅋㅋ
 
 
 
-### 조경
+## 조경
 
 <figure>
  <img src ='https://i.imgur.com/Rg7MrKM.jpg' />
@@ -69,7 +68,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/zoCLdYH.jpg' />
+ <img src ='https://i.imgur.com/zoCLdYH.jpg', width='300', height='400' />
  <figcaption>'210321 ~ '210326'</figcaption>
 </figure>
 
@@ -79,14 +78,14 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/2VpyYz1.jpg' />
+ <img src ='https://i.imgur.com/2VpyYz1.jpg', width='400', height='533' />
 </figure>
 
 여의도의 경치는 참 예쁘더라. 돈 많이 벌어서 언젠가는 한강뷰!
 
 
 
-### 레미탈
+## 레미탈
 
 <figure>
  <img src ='https://i.imgur.com/PnoastD.jpg' />
@@ -105,13 +104,15 @@ P.S.
 이 일을 하면서 알게 된 **상식!!**
 
 레미탈(시멘트 + 모래)
+<br>
 몰탈(시멘트 + 모래 + 물)
 
 콘크리트(시멘트 + 모래 +자갈)
+<br>
 레미콘(시멘트 + 모래 + 자갈 + 물)
 
 
-### 태양광 패널 설치
+## 태양광 패널 설치
 
 <figure>
  <img src ='https://i.imgur.com/aZQPYvq.jpg' />
@@ -128,14 +129,14 @@ P.S.
 그렇게 3일간 사다리에서 강남 전경 열심히 봤다.
 
 <figure>
- <img src ='https://i.imgur.com/gmWB4yU.jpg' />
+ <img src ='https://i.imgur.com/gmWB4yU.jpg' width='300'/>
 </figure>
 
 언젠가 논현동에 가서 완공된 이 건물을 보면, 여기 태양광 패널 내가 만들었어~ 하고 생색 내야겠다.
 
 
 
-### 건물 철거
+## 건물 철거
 
 <figure>
  <img src ='https://i.imgur.com/fsbkTf1.jpg' />
@@ -144,13 +145,9 @@ P.S.
 
 <figure>
  <img src ='https://i.imgur.com/EU9LGsb.mp4' />
- <figcaption>'210408 ~ '210410'</figcaption>
 </figure>
 
 
-<!-->
-<video id="vid" width="320" height="240" autoplay="autoplay" loop="loop" muted="muted" controls poster="https://www.w3schools.com/images/w3schools_green.jpg"> <source src="https://i.imgur.com/u57vyS4.jpg" type="video/mp4"> </video> <script> document.getElementById('vid').play(); </script>
-<-->
 
 역삼동에 건물 철거 현장에서 3일간 일했다. 큰 건물을 포크레인으로 부수는데, 거기서 생기는 먼지를 줄이기 위해 물을 뿌렸다. 물총 쏘는 것 같아 재밌었다. 아침에는 해가 뜨기 전이라 추웠는데, 해가 뜨고 나서는 물 때문에 시원해서 좋았다. 포크레인이 일을 다 하기에 크게 힘들 것도 없었다.
 
@@ -158,10 +155,10 @@ P.S.
 
 
 
-### 아시바 철거
+## 아시바 철거
 
 <figure>
- <img src ='https://i.imgur.com/u57vyS4.jpg' />
+ <img src ='https://i.imgur.com/u57vyS4.jpg', width='350' />
 </figure>
 
 
@@ -170,7 +167,7 @@ P.S.
 건물을 다 부수고 난 뒤 이 아시바도 철거해야하는데, 방법이 참 원초적이다. 사진처럼 사람들이 한 층씩 달라 붙어 밑으로 내린다. 이를 '받아치기'라고 사람들이 불렀다.
 
 <figure>
- <img src ='https://i.imgur.com/pp9GBot.jpg' />
+ <img src ='https://i.imgur.com/pp9GBot.jpg' width='250' />
 </figure>
 
 여기도 현장이 엄청 열악한게, 이동 수단이 마땅치 않아서 저 높은 곳을 이렇게 원초적으로 기어 올라갔다. 헬멧도 안줘서 진짜 무서웠다.
@@ -178,7 +175,7 @@ P.S.
 
 
 <figure>
- <img src ='https://i.imgur.com/Q81L9ek.jpg' />
+ <img src ='https://i.imgur.com/Q81L9ek.jpg' width='400'/>
 </figure>
 
 건물 철거는 포크레인으로 하는데, 포크레인을 건물 옥상으로 옮길 때는 크레인을 이용하더라. 저 크고 무거운 포크레인이 저렇게 떠 있으니 신기했다.
