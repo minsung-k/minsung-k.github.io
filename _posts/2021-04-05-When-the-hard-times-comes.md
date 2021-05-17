@@ -38,7 +38,7 @@ Tip) 김치라고 적혀 있으면 안 던진다 ㅋㅋ
 
 
 <figure>
- <img src ='https://i.imgur.com/kwT4afA.jpg' width='300', height='400' />
+ <img src ='https://i.imgur.com/kwT4afA.jpg' , width='300', height='400' />
 </figure>
 
 밤 12시에 밥을 먹고 좀 쉬는 시간이 있었는데, 그 때 너무 힘들어서 추운 편의점 땅바닥에 그냥 앉았었다.
