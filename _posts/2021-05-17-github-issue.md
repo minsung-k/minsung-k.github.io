@@ -7,6 +7,7 @@ tags:
   - github.io
   - 홈페이지
 ---
+깃허브를 하다 발생한 문제를 정리해 놓았습니다.
 
 
 ## Github Error
@@ -17,7 +18,7 @@ tags:
 
 
 <figure>
- <img src ='https://i.imgur.com/VJDFBVg.png', width='400'/>
+ <img src ='https://i.imgur.com/VJDFBVg.png' width='400'/>
 </figure>
 
 블로그를 포스팅 했는데 잘 안되면 왜 안되는지에 대한 이유를 적어준다 (위)
@@ -34,7 +35,7 @@ tags:
 이분은 잘 해결되지 않아 더 많은 방법을 시도했는데, 난 첫번째 방법만 써서 문제를 해결했다.
 
 
-  git config --global user.name [사용자이름]
-  git config --global user.email [이메일 주소]
+    git config --global user.name [사용자이름]
+    git config --global user.email [이메일 주소]
 
 안되면 윗 글에 들어가서 여러 방법을 다양하게 시도해 보시길...
