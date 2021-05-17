@@ -9,7 +9,7 @@ tags:
 ---
 
 ## 얼마나 힘들게 미국을 왔는지 있지 말자
-
+<br>
 미국 대학원을 어플라이 하기까지의 과정도 정말 힘들었지만, 결과적으로 펀딩을 받지 못했기에, 비싼 등록금을 스스로 감당해야한다.
 
 사실 등록금과 기숙사비는 죄송하지만 부모님께 받아야 하기에, 생활비라도 스스로 벌자는 생각에서 일을 시작했다.
@@ -39,7 +39,7 @@ Tip) 김치라고 적혀 있으면 안 던진다 ㅋㅋ
 
 
 <figure>
- <img src ='https://i.imgur.com/kwT4afA.jpg' />
+ <img src ='https://i.imgur.com/kwT4afA.jpg' width='375', height='500' />
 </figure>
 
 밤 12시에 밥을 먹고 좀 쉬는 시간이 있었는데, 그 때 너무 힘들어서 추운 편의점 땅바닥에 그냥 앉았었다.
@@ -141,6 +141,12 @@ P.S.
  <img src ='https://i.imgur.com/fsbkTf1.jpg' />
  <figcaption>'210408 ~ '210410'</figcaption>
 </figure>
+
+<figure>
+ <img src ='https://i.imgur.com/EU9LGsb.mp4' />
+ <figcaption>'210408 ~ '210410'</figcaption>
+</figure>
+
 
 <!-->
 <video id="vid" width="320" height="240" autoplay="autoplay" loop="loop" muted="muted" controls poster="https://www.w3schools.com/images/w3schools_green.jpg"> <source src="https://i.imgur.com/u57vyS4.jpg" type="video/mp4"> </video> <script> document.getElementById('vid').play(); </script>
