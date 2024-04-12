@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Mechanical Engineering, University of Georgia
+subtitle: Mechanical Engineering, University of Georgia
 profile:
   align: right
   image: prof_pic.jpg
