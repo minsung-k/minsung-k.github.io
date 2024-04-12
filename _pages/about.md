@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: Mechanical Engineering, University of Georgia
 profile:
   align: right
   image: prof_pic.jpg
@@ -18,8 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, I'm Minsung Kang(강민성 in Korean). I'm a Ph.D. student in Mechanical Engineering at [University of Georgia](https://www.uga.edu/), advised by Prof. [Hongyue Sun](https://sites.google.com/view/hongyuesun/home?authuser=0). I receved my Master's degree in [Industrial & Systems Engineering](https://www.ise.ufl.edu/), [University of Flolrida](https://www.ufl.edu/), advised by Prof. [Xiaochen Xian](https://www.ise.ufl.edu/xian/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My primary research interests lie in the area of big data analytics and machine learning and Interpretable AI. I am particularly interested in how we can build a robust machine learning algorithm __to solve real-world problems.__ 
