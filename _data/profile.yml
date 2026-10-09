@@ -5,7 +5,7 @@ navbar_name: "Minsung Kang"
 positions:
 - name: Ph.D. Candidate
 - name: Department of Mechanical Engineering, University of Georgia
-  icon: university  # TODO: replace with `logo: /assets/images/badges/uga.png` once uploaded
+  logo: /assets/images/badges/uga.png
 
 email: "mkang@uga.edu"
 # TODO: cv_link: add a PDF of the CV under assets/ and link it here, e.g. /assets/cv/Minsung_Kang_CV.pdf
@@ -27,29 +27,34 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of Georgia
-  # logo: /assets/images/badges/uga.png
+  logo: /assets/images/badges/uga.png
   position: >-
     Ph.D. in Mechanical Engineering <br/>
     Advisor: Hongyue Sun
   date: Aug. 2024 - present
 - name: University of Florida
+  logo: /assets/images/badges/uf.png
   position: >-
     M.S. in Industrial and Systems Engineering <br/>
     Advisor: Xiaochen Xian
   date: Aug. 2021 - May 2024
 - name: Hankuk University of Foreign Studies
+  logo: /assets/images/badges/hufs.png
   position: B.B.A. in Management Information Systems
   date: Aug. 2020
 - name: Columbus State University
+  logo: /assets/images/badges/columbus.png
   position: Exchange Student
   date: Dec. 2017
 
 experience:
 - name: University of Georgia
+  logo: /assets/images/badges/uga.png
   dept: MERIT (Manufacturing Empowered by Robotics, Intelligence, and Trustworthy Systems)
   position: Graduate Research Assistant, Athens, GA
   date: Aug. 2024 - present
 - name: University of Florida
+  logo: /assets/images/badges/uf.png
   dept: Data Informatics of Systems Improvement and Design Laboratory (DISIDE)
   position: Graduate Research Assistant, Gainesville, FL
   date: Aug. 2021 - May 2024
