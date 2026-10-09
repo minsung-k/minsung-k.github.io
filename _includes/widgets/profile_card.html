@@ -33,6 +33,8 @@
                             {% for position in site.data.profile.positions %}
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
+                            {%- elsif position.icon -%}
+                            <i class="fas fa-{{ position.icon }} text-muted"></i>
                             {%- endif %}
                             {{ position.name }}<br/>
                             {% endfor %}
