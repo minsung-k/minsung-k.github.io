@@ -9,7 +9,7 @@ positions:
 
 email: "mkang@uga.edu"
 # TODO: cv_link: add a PDF of the CV under assets/ and link it here, e.g. /assets/cv/Minsung_Kang_CV.pdf
-# TODO: gscholar: add Google Scholar ID
+gscholar: X4YVCwgAAAAJ
 github: minsung-k
 # TODO: linkedin / orcid IDs
 
@@ -23,8 +23,7 @@ short_bio: >-
   </p>
   <!-- TODO: add a sentence or two about current projects -->
 
-# TODO: add a portrait, then uncomment
-# portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: University of Georgia
