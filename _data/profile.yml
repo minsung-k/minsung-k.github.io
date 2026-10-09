@@ -1,0 +1,45 @@
+primary_name: "Minsung K."
+secondary_name: ""
+navbar_name: "Minsung K."
+
+positions:
+- name: Ph.D. Student, Mechanical Engineering
+- name: Your University
+
+
+email: "mindouskr@gmail.com"
+# cv_link: link-to-your-cv-file
+# gscholar: your-google-scholar-id
+github: minsung-k
+# twitter: your_twitter_id
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a Ph.D. student in Mechanical Engineering. My research interests include deep learning for
+    mechanics and engineering systems, continuum mechanics, finite element methods, and control.
+  </p>
+
+# portrait_url: /assets/images/photos/portrait.jpg  # add a photo, then uncomment
+
+education:
+- name: Your University
+  position: >-
+    Department of Mechanical Engineering <br/>
+    Ph.D. Student
+  date: 20XX - present
+- name: Your Previous University
+  position: B.S. in Mechanical Engineering
+  date: 20XX - 20XX
+
+# experience:
+# - name: Peking University
+#   logo: /assets/images/badges/PKU_red.png
+#   position: Research Intern
+#   date: Sep. 2019 - Jul. 2021
+
+# awards:
+# - name: Award Name
+#   date: 2024
