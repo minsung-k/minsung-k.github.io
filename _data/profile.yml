@@ -1,45 +1,70 @@
-primary_name: "Minsung K."
+primary_name: "Minsung Kang"
 secondary_name: ""
-navbar_name: "Minsung K."
+navbar_name: "Minsung Kang"
 
 positions:
-- name: Ph.D. Student, Mechanical Engineering
-- name: Your University
+- name: Ph.D. Candidate, Mechanical Engineering
+- name: University of Georgia
 
-
-email: "mindouskr@gmail.com"
-# cv_link: link-to-your-cv-file
-# gscholar: your-google-scholar-id
+email: "mkang@uga.edu"
+# TODO: cv_link: add a PDF of the CV under assets/ and link it here, e.g. /assets/cv/Minsung_Kang_CV.pdf
+# TODO: gscholar: add Google Scholar ID
 github: minsung-k
-# twitter: your_twitter_id
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+# TODO: linkedin / orcid IDs
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a Ph.D. student in Mechanical Engineering. My research interests include deep learning for
-    mechanics and engineering systems, continuum mechanics, finite element methods, and control.
+    I am a Ph.D. candidate in Mechanical Engineering at the University of Georgia, advised by
+    <a href="https://www.google.com/search?q=Hongyue+Sun+University+of+Georgia" target="_blank">Hongyue Sun</a>.
+    My research interests are physics-informed and operator learning, uncertainty-aware deep learning, and
+    manufacturing and industrial data analytics.
   </p>
+  <!-- TODO: add a sentence or two about current projects -->
 
-# portrait_url: /assets/images/photos/portrait.jpg  # add a photo, then uncomment
+# TODO: add a portrait, then uncomment
+# portrait_url: /assets/images/photos/portrait.jpg
 
 education:
-- name: Your University
+- name: University of Georgia
   position: >-
-    Department of Mechanical Engineering <br/>
-    Ph.D. Student
-  date: 20XX - present
-- name: Your Previous University
-  position: B.S. in Mechanical Engineering
-  date: 20XX - 20XX
+    Ph.D. in Mechanical Engineering <br/>
+    Advisor: Hongyue Sun
+  date: Aug. 2024 - present
+- name: University of Florida
+  position: >-
+    M.S. in Industrial and Systems Engineering <br/>
+    Advisor: Xiaochen Xian
+  date: Aug. 2021 - May 2024
+- name: Hankuk University of Foreign Studies
+  position: B.B.A. in Management Information Systems
+  date: Aug. 2020
+- name: Columbus State University
+  position: Exchange Student
+  date: Dec. 2017
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: MERIT, University of Georgia
+  position: Graduate Research Assistant, Athens, GA
+  date: Aug. 2024 - present
+- name: DISIDE Lab, University of Florida
+  position: Graduate Research Assistant, Gainesville, FL
+  date: Aug. 2021 - May 2024
+- name: AI Solution Center
+  position: Anomaly detection for assembly-line defects
+  date: Mar. - Jun. 2020
+- name: BostonAims (AI Platform Architecture Inc.)
+  position: Scooter rebalancing, tuna price forecasting, churn analytics
+  date: Jul. - Dec. 2019
 
-# awards:
-# - name: Award Name
-#   date: 2024
+awards:
+- name: Best Paper Award, 2026 IISE QCRE Best Track Paper Competition
+  date: 2026
+- name: UGA Graduate Student Travel Grant
+  date: 2025
+- name: Finalist, IISE DAIS Data Analytics Competition
+  date: 2022
+- name: Korean Government Scholarship
+  date: 2021 - 2024
+- name: Mirae Asset Global Exchange Scholarship
+  date: 2017
