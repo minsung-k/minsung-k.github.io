@@ -63,9 +63,8 @@ experience:
   logo: /assets/images/badges/ai_solution_center.png
   position: Research Assistant
   date: Mar. - Jun. 2020
-- name: BostonAims
+- name: BostonAIMS
   logo: /assets/images/badges/bostonaims.png
-  logo_wide: true  # logo already contains the name
   position: Data Analyst
   date: Jul. - Dec. 2019
 
