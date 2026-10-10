@@ -60,11 +60,12 @@ education:
 
 experience:
 - name: AI Solution Center
-  # logo: /assets/images/badges/ai_solution_center.png  # TODO: upload logo, then uncomment
+  logo: /assets/images/badges/ai_solution_center.png
   position: Research Assistant
   date: Mar. - Jun. 2020
 - name: BostonAims
-  # logo: /assets/images/badges/bostonaims.png  # TODO: upload logo, then uncomment
+  logo: /assets/images/badges/bostonaims.png
+  logo_wide: true  # logo already contains the name
   position: Data Analytics
   date: Jul. - Dec. 2019
 
