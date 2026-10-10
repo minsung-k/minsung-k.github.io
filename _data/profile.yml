@@ -15,13 +15,12 @@ github: minsung-k
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    I am a Ph.D. candidate in Mechanical Engineering at the University of Georgia, advised by
-    <a href="https://www.google.com/search?q=Hongyue+Sun+University+of+Georgia" target="_blank">Hongyue Sun</a>.
-    My research interests are physics-informed and operator learning, uncertainty-aware deep learning, and
-    manufacturing and industrial data analytics.
-  </p>
-  <!-- TODO: add a sentence or two about current projects -->
+  <p><strong>Welcome!</strong> I'm Minsung, a Ph.D. candidate in Mechanical Engineering at the University of Georgia,
+  advised by Hongyue Sun. I build physics-informed and operator-learning models, uncertainty-aware deep learning
+  methods, and data analytics for manufacturing and industrial systems.</p>
+  <p>This site collects my research, publications and news. Feel free to reach out by email below &mdash; I'm always
+  happy to talk about collaborations.</p>
+  <!-- TODO: review/edit this welcome note in your own voice -->
 
 portrait_url: /assets/images/photos/portrait.jpg
 

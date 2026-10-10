@@ -1,21 +1,27 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign news_items = site.news | sort: "date" | reverse | slice: 0, include.limit -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
-    <div class="px-3 pb-1 small">
-        {% for year in news_by_year %}
-        <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
-            {% assign not_first = true %}
-            <div class="mr-3 text-muted my-1">{{ year.name }}</div>
-            <div class="media-body">
-                {% for item in year.items %}
-                <div class="my-1 d-flex">
-                    <div>{{ item.title }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+    <div class="p-3">
+        <div class="row">
+            {% for item in news_items %}
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+                <div class="card h-100 border shadow-sm">
+                    {% if item.image %}
+                    <img src="{{ item.image | relative_url }}" alt="{{ item.headline }}" class="card-img-top" style="height: 160px; object-fit: cover;">
+                    {% else %}
+                    <div class="card-img-top d-flex align-items-center justify-content-center text-white" style="height: 160px; background: linear-gradient(135deg, #25549a, #6b8fc9); font-size: 3rem;">
+                        <i class="fas fa-{{ item.icon | default: 'bullhorn' }}"></i>
+                    </div>
+                    {% endif %}
+                    <div class="card-body p-3">
+                        <div class="small text-muted mb-1"><i>{% if item.date_text %}{{ item.date_text }}{% else %}{{ item.date | date: "%b. %Y" }}{% endif %}</i></div>
+                        <h6 class="card-title mb-1">{{ item.headline }}</h6>
+                        <p class="card-text small mb-0">{{ item.description }}</p>
+                    </div>
                 </div>
-                {% endfor %}
             </div>
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
 </div>
