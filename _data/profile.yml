@@ -65,6 +65,7 @@ experience:
   date: Mar. - Jun. 2020
 - name: BostonAIMS
   logo: /assets/images/badges/bostonaims.png
+  logo_wide: true  # logo already contains the name
   position: Data Analyst
   date: Jul. - Dec. 2019
 
