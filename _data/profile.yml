@@ -15,12 +15,21 @@ github: minsung-k
 
 short_bio_text_justify: false
 short_bio: >-
-  <p><strong>Welcome!</strong> I'm Minsung, a Ph.D. candidate in Mechanical Engineering at the University of Georgia,
-  advised by Hongyue Sun. I build physics-informed and operator-learning models, uncertainty-aware deep learning
-  methods, and data analytics for manufacturing and industrial systems.</p>
-  <p>This site collects my research, publications and news. Feel free to reach out by email below &mdash; I'm always
-  happy to talk about collaborations.</p>
-  <!-- TODO: review/edit this welcome note in your own voice -->
+  <p>
+    Hi! My name is Minsung. I am a Ph.D. candidate in the
+    <a href="https://www.engr.uga.edu/" target="_blank">Department of Mechanical Engineering</a> at the
+    <a href="https://www.uga.edu/" target="_blank">University of Georgia</a>, advised by Hongyue Sun.
+    I study <strong>physics-informed and operator learning</strong> and <strong>uncertainty-aware deep learning</strong>,
+    with applications to manufacturing and industrial data analytics. I am particularly interested in
+    (i) neural operators for predicting complex physical processes such as droplet evolution, and
+    (ii) trustworthy and ethical AI for manufacturing systems.
+    My work has received a Best Paper Award at the 2026 IISE QCRE Best Track Paper Competition.
+  </p>
+  <p>
+    Previously, I received my M.S. in Industrial and Systems Engineering from the University of Florida,
+    advised by Xiaochen Xian, and my B.B.A. in Management Information Systems from Hankuk University of Foreign Studies.
+  </p>
+  <!-- TODO: add a "Beyond research..." line in your own voice (hobbies, etc.) and review the wording above -->
 
 portrait_url: /assets/images/photos/portrait.jpg
 
