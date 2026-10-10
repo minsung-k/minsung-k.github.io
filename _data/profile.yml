@@ -25,6 +25,11 @@ short_bio: >-
     (ii) trustworthy and ethical AI for manufacturing systems.
     My work has received a Best Paper Award at the 2026 IISE QCRE Best Track Paper Competition.
   </p>
+  <p class="mb-2">
+    <mark><strong>I am currently on the job market</strong> (expected graduation: July 2027). I am looking for
+    <strong>faculty positions</strong>, as well as industry roles such as recommendation algorithm engineer,
+    agent algorithm engineer, or related positions.</mark>
+  </p>
   <p>
     Previously, I received my M.S. in Industrial and Systems Engineering from the University of Florida,
     advised by Xiaochen Xian, and my B.B.A. in Management Information Systems from Hankuk University of Foreign Studies.
@@ -56,21 +61,13 @@ education:
   date: Dec. 2017
 
 experience:
-- name: University of Georgia
-  logo: /assets/images/badges/uga.png
-  dept: MERIT (Manufacturing Empowered by Robotics, Intelligence, and Trustworthy Systems)
-  position: Graduate Research Assistant, Athens, GA
-  date: Aug. 2024 - present
-- name: University of Florida
-  logo: /assets/images/badges/uf.png
-  dept: Data Informatics of Systems Improvement and Design Laboratory (DISIDE)
-  position: Graduate Research Assistant, Gainesville, FL
-  date: Aug. 2021 - May 2024
 - name: AI Solution Center
-  position: Anomaly detection for assembly-line defects
+  # logo: /assets/images/badges/ai_solution_center.png  # TODO: upload logo, then uncomment
+  position: Research Assistant
   date: Mar. - Jun. 2020
-- name: BostonAims (AI Platform Architecture Inc.)
-  position: Scooter rebalancing, tuna price forecasting, churn analytics
+- name: BostonAims
+  # logo: /assets/images/badges/bostonaims.png  # TODO: upload logo, then uncomment
+  position: Data Analytics
   date: Jul. - Dec. 2019
 
 awards:
