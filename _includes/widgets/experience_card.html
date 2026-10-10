@@ -11,10 +11,10 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.education %}
                                 <li class="media mb-2">
-                                    {% if item.logo_wide %}{% elsif item.logo %}<img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">{% else %}{{ fallback_icon }}{% endif %}
+                                    {% if item.logo_wide %}<span class="mr-1 mt-1" style="width: 18px; flex: none;"></span>{% elsif item.logo %}<img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">{% else %}{{ fallback_icon }}{% endif %}
                                     <div class="media-body">
                                         <div class="d-flex">
-                                            {% if item.logo_wide %}<div><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="height: 20px;"></div>{% else %}<div>{{ item.name }}</div>{% endif %}
+                                            {% if item.logo_wide %}<div><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="height: 22px;"></div>{% else %}<div>{{ item.name }}</div>{% endif %}
                                             <div class="small ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                         <div class="small">{{ item.position }}</div>
@@ -33,10 +33,10 @@
                             <ul class="list-unstyled mb-1">
                                 {% for item in site.data.profile.experience %}
                                 <li class="media mb-2">
-                                    {% if item.logo_wide %}{% elsif item.logo %}<img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">{% else %}{{ fallback_icon }}{% endif %}
+                                    {% if item.logo_wide %}<span class="mr-1 mt-1" style="width: 18px; flex: none;"></span>{% elsif item.logo %}<img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">{% else %}{{ fallback_icon }}{% endif %}
                                     <div class="media-body">
                                         <div class="d-flex">
-                                            {% if item.logo_wide %}<div><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="height: 20px;"></div>{% else %}<div>{{ item.name }}</div>{% endif %}
+                                            {% if item.logo_wide %}<div><img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="height: 22px;"></div>{% else %}<div>{{ item.name }}</div>{% endif %}
                                             <div class="small ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                         <div class="small">{{ item.position }}</div>
