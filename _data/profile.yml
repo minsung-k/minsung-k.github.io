@@ -32,11 +32,11 @@ short_bio: >-
       how people and AI read each other, and how they decide together when their judgments conflict.
     </li>
   </ul>
-  <p class="mb-2">
-    <mark><strong>I am currently on the job market</strong> (expected graduation: July 2027), looking for <strong>faculty and postdoctoral positions</strong>.</mark>
-  </p>
 
 
+
+job_market: >-
+  <strong>I am currently on the job market</strong> (expected graduation: July 2027), looking for <strong>faculty and postdoctoral positions</strong>.
 
 portrait_url: /assets/images/photos/portrait.jpg
 
