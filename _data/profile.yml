@@ -19,20 +19,17 @@ short_bio: >-
     Hi! My name is Minsung. I am a Ph.D. candidate in the
     <a href="https://www.engr.uga.edu/" target="_blank">Department of Mechanical Engineering</a> at the
     <a href="https://www.uga.edu/" target="_blank">University of Georgia</a>, advised by Hongyue Sun.
-    I study <strong>physics-informed and operator learning</strong> and <strong>uncertainty-aware deep learning</strong>,
-    with applications to manufacturing and industrial data analytics. I am particularly interested in
-    (i) neural operators for predicting complex physical processes such as droplet evolution, and
-    (ii) trustworthy and ethical AI for manufacturing systems.
+    My research asks what an AI model needs beyond accuracy before people can trust it.
+    I am particularly interested in (i) <strong>trustworthy AI for manufacturing</strong>: models that protect privacy,
+    work fairly across groups of workers, and are transparent about their uncertainty; and
+    (ii) <strong>human-AI interaction</strong>: how people and AI read each other, and how they decide together
+    when their judgments conflict.
     My work has received a Best Paper Award at the 2026 IISE QCRE Best Track Paper Competition.
   </p>
   <p class="mb-2">
-    <mark><strong>I am currently on the job market</strong> (expected graduation: July 2027), looking for <strong>faculty positions</strong>.</mark>
+    <mark><strong>I am currently on the job market</strong> (expected graduation: July 2027), looking for <strong>faculty and postdoctoral positions</strong>.</mark>
   </p>
-  <p>
-    Previously, I received my M.S. in Industrial and Systems Engineering from the University of Florida,
-    advised by Xiaochen Xian, and my B.B.A. in Management Information Systems from Hankuk University of Foreign Studies.
-  </p>
-  <!-- TODO: add a "Beyond research..." line in your own voice (hobbies, etc.) and review the wording above -->
+
 
 portrait_url: /assets/images/photos/portrait.jpg
 
